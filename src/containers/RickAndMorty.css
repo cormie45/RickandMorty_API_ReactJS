@@ -1,0 +1,13 @@
+.main-container {
+    display: flex;
+}
+
+.rickandmorty-list {
+    text-align: center;
+    flex: 1;
+}
+
+.character-details {
+    text-align: center;
+    flex: 1;
+}

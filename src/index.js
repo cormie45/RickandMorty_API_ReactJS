@@ -6,6 +6,9 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
+    <header className="app-header">
+        <img src="https://blog.blackmilkclothing.com/wp-content/uploads/2019/01/RAM__LOGO_4C_S3SG.png" alt="Rick and Morty" id="main"/>
+    </header>
     <App />
   </React.StrictMode>,
   document.getElementById('root')
