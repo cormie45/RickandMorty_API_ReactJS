@@ -1,6 +1,5 @@
 import React from "react"
 import "./CharacterDetails.css"
-import RickAndMorty from "../containers/RickAndMorty";
 
 const CharacterDetails = ({selectedCharacter}) => {
     return (

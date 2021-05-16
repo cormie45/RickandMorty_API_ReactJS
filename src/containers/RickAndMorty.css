@@ -8,6 +8,11 @@
 }
 
 .character-details {
+    cursor: default;
     text-align: center;
     flex: 1;
+}
+
+h1 {
+    cursor: default;
 }

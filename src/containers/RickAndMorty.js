@@ -17,6 +17,7 @@ const RickAndMorty = () => {
         .then(characters => setCharacters(characters.results))
     };
 
+
     const onCharacterClick = function (character) {
         setSelectedCharacter(character);
     };
